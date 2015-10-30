@@ -17,7 +17,7 @@
 <ul class="cd-accordion-menu a animated">
     <li class="has-children">
         <input type="checkbox" name ="group-1" id="group-1">
-        <label for="group-1"> herro </label>
+        <label for="group-1"> Herro </label>
 
         <ul>
             <li>hello</li>
